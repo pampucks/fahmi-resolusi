@@ -1,0 +1,4 @@
+Fahmi Resolusi
+- Bisa menggunakan Git dan GitHub
+- Mempelajari roadmap Front-end Developer
+- Membuat project web dengan NextJS
