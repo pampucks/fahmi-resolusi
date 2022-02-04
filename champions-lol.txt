@@ -1,7 +1,10 @@
-- Ahri
-- Akali
-- Braum
-- Caitlyn
-- Evelynn
-- Yasuo
-- Zed
+- Ahri = Burst Mage
+- Akali = Assasin
+- Braum = Tank
+- Caitlyn = Marksmen
+- Evelynn = Assasin
+- Garen = Tank
+- Janna = Enchanter Mage
+- Jax = Fighter
+- Yasuo = Assasin
+- Zed = Assasin
