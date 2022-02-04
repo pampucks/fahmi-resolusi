@@ -3,5 +3,6 @@
 - Braum = Support
 - Caitlyn = ADC
 - Evelynn = Jungle
+- Garen = Baron
 - Yasuo = Mid
 - Zed = Mid
