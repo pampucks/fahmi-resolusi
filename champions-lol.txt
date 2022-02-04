@@ -1,7 +1,8 @@
-- Ahri
-- Akali
-- Braum
-- Caitlyn
-- Evelynn
-- Yasuo
-- Zed
+- Ahri = Mid
+- Akali = Mid
+- Braum = Support
+- Caitlyn = ADC
+- Evelynn = Jungle
+- Garen = Baron
+- Yasuo = Mid
+- Zed = Mid
